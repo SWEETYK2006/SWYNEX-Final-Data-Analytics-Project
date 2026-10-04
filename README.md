@@ -173,7 +173,30 @@ This project was completed as part of the SWYNEX Data Analytics Internship.
 
 ## 12. Project Files
 
-The repository contains the project resources, including the cleaned dataset, exploratory analysis outputs, dashboard materials, and supporting visualizations.
+The complete project is organized into the following sections:
 
-More project files and screenshots will be added to this repository as part of the final project documentation.
+### Task 1 - Data Cleaning
+
+Contains the data cleaning documentation and cleaned dataset.
+
+[View Task 1 - Data Cleaning](./Task-1-Data-Cleaning/)
+
+### Task 2 - Exploratory Data Analysis
+
+Contains the EDA documentation, analysis workbook, and visualization screenshots.
+
+[View Task 2 - Exploratory Data Analysis](./Task-2-Exploratory-Data-Analysis/)
+
+### Task 3 - Interactive Dashboard
+
+Contains the dashboard documentation and screenshot of the completed interactive dashboard.
+
+[View Task 3 - Interactive Dashboard](./Task-3-Interactive-Dashboard/)
+
+### Final Business Insights
+
+Contains the final business insights and recommendations derived from the analysis.
+
+[View Final Business Insights](./Final-Business-Insights/)
+
 
