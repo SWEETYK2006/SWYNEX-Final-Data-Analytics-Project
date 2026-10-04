@@ -30,26 +30,14 @@ The EDA helped identify important patterns in product performance, payment metho
 
 ## EDA Visualizations
 
-### 1. EDA Summary
+![EDA Summary](./01_EDA_Summary.png.png)
 
-![EDA Summary](./01_EDA_Summary.png)
+![Item Analysis](./02_Item_Analysis.png.png)
 
-### 2. Item Analysis
+![Payment Method Analysis](./03_Payment_Method_Analysis.png.png)
 
-![Item Analysis](./02_Item_Analysis.png)
+![Location Analysis](./04_Location_Analysis.png.png)
 
-### 3. Payment Method Analysis
+![Sales by Item](./05_Sales_by_Item.png.png)
 
-![Payment Method Analysis](./03_Payment_Method_Analysis.png)
-
-### 4. Location Analysis
-
-![Location Analysis](./04_Location_Analysis.png)
-
-### 5. Sales by Item
-
-![Sales by Item](./05_Sales_by_Item.png)
-
-### 6. Monthly Sales Trend
-
-![Monthly Sales Trend](./06_Monthly_Sales_Trend.png)
+![Monthly Sales Trend](./06_Monthly_Sales_Trend.png.png)
