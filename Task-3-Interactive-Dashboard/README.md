@@ -26,3 +26,8 @@ It helps users quickly understand overall sales performance, product performance
 **Looker Studio**
 
 The dashboard was developed as an alternative BI solution for presenting the analysed dataset interactively.
+
+### Dashboard Preview
+
+![Interactive Dashboard](./SWYNEX_Interactive_Dashboard.png)
+
