@@ -32,7 +32,7 @@ The EDA helped identify important patterns in product performance, payment metho
 
 ### 1. EDA Summary
 
-![EDA Summary](./01_EDA_Summary.png)
+![EDA Summary](Task-2-Exploratory-Data-Analysis/01_EDA_Summary.png.png)
 
 ### 2. Item Analysis
 
