@@ -29,5 +29,5 @@ The dashboard was developed as an alternative BI solution for presenting the ana
 
 ### Dashboard Preview
 
-![Interactive Dashboard](SWYNEX_Interactive_Dashboard.png)
+![Interactive Dashboard](SWYNEX_Interactive_Dashboard.png.png)
 
